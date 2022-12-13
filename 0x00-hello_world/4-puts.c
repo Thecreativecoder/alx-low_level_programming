@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry
- * Result: Always 0 (success)
+ * main - Entry point
+ * Return :Alway 0 (sucess)
  */
-int main(void) /*Return value:0 (success)*/
+int main(void) /* Description: return value is 0 and ia sucessful)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
