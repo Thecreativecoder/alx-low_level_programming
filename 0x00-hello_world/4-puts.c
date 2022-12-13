@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *
- * Return :Always 0 (Success)
+ * main - Entry
+ * Result : Always 0
  */
-int main(void) /*return value :0*/
+int main (void) /*return value is an integer*/
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like solving mutilingual puzzle");
 	return (0);
 }
