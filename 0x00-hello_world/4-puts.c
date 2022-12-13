@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry
- * Result : Always 0
+ * Result: Always 0 (success)
  */
 int main(void) /*return value is an integer and does not take arguments*/
 {
