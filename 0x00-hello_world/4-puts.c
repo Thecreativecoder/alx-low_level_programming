@@ -6,6 +6,6 @@
  */
 int main(void) /* Return :0(sucesss) ,don't print result */
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
