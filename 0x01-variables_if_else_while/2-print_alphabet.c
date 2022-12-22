@@ -1,15 +1,16 @@
 #include <stdio.h>
 /**
- * main - print alphabet in lower case
+ * main - print alphabets in lower case
  *
- * Return: 0(sucess)
+ * Return: Always 0(success)
  */
 int main(void)
 {
 	char letter;
-7
-	for (letter = 'a'; letter <= 'z'; letter++)
-		putchar(letter);
+
+	for (letter = 'a', letter <= 'z', letter++)
+
+		putchar letter;
 
 	putchar('\n');
 
