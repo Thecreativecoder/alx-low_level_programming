@@ -1,19 +1,20 @@
-#include <main.h>
+#include "main.h"
+
 /**
- *main - print "putchar" follow by a new line
- *Description : you are not allowed to use standard libraries
- *Return : 0
+ * main - print _putchar
+ * Return: Always 
  */
 int main(void)
 {
-	char alx[] = "_putchar"
-	int i = 0
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
-	while (alx(i) != '\n')
-	{
-		_putchar(alx[]);
-		i++
-	}
-	_putchar('\n')
 	return (0);
 }

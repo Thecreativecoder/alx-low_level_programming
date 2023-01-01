@@ -1,1 +1,0 @@
-creating functions in c

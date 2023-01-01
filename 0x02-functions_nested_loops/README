@@ -1,0 +1,3 @@
+
+O,_putchar mandatory write a program that prints _putchar followed by a new line .the program should return 0
+1. write a function that prints the alphabets , in lower case ,follwed by a new line .[prototype void print_alphabets]
